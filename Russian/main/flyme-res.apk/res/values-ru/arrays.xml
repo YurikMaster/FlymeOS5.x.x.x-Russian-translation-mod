@@ -115,7 +115,7 @@
         <item>Morning song</item>
         <item>Call of love</item>
         <item>Tumbler</item>
-        <item>Journey begins</item>
+        <item>Путешествие начинается</item>
         <item>New life</item>
         <item>Heartbeat</item>
         <item>East ville memory</item>
@@ -174,14 +174,14 @@
     </string-array>
     <string-array name="urlspan_tel_dialog_title">
         <item>Позвонить</item>
-        <item>Отправить сообщение</item>
+        <item>Отправить SMS</item>
         <item>Копировать</item>
-        <item>Добавить в контакты</item>
+        <item>Новый контакт</item>
     </string-array>
     <string-array name="urlspan_email_dialog_title">
         <item>Отправить Email</item>
         <item>Копировать</item>
-        <item>Добавить в контакты</item>
+        <item>Новый контакт</item>
     </string-array>
     <string-array name="urlspan_date_dialog_title">
         <item>Новое событие</item>
@@ -195,7 +195,7 @@
     <string-array name="urlspan_open_dialog_title_chinamobile">
         <item>Открыть</item>
         <item>Копировать</item>
-        <item>Добавить в избранное</item>
+        <item>В закладки</item>
     </string-array>
     <string-array name="calendar_week_title">
         <item>Вс</item>
@@ -300,7 +300,7 @@
     </string-array>
     <string-array name="smartbar_left_right_padding">
         <item>160px</item>
-        <item>170px(default)</item>
+        <item>170px(по умолч.)</item>
         <item>180px</item>
     </string-array>
     <string-array name="smartbar_left_right_padding_value">
