@@ -61,7 +61,7 @@
      <string name="dlg_check_app_control_summary">Применить разрешение %s</string>
      <string name="dlg_check_app_control_summary_on">Функция %s%s</string>
      <string name="dlg_check_app_message">\"%s\" разрешено: %s (может быть изменено в Настройки/Управление приложениями)</string>
-     <string name="dlg_check_app_message_location">\"%s\"applies for the permission of %s. Configuration can be changed in Setting/Security and location/Locating service</string>
+     <string name="dlg_check_app_message_location">\"%s\"разрешается %s (можно изменить в Настройках)</string>
      <string name="dlg_check_app_message_off">\"%s\" хочет отключить функцию %s</string>
      <string name="dlg_check_app_message_on">\"%s\" запрашивает доступ к %s</string>
      <string name="dlg_check_app_shortcut">%s хочет создать ярлык</string>
@@ -97,7 +97,7 @@
      <string name="lock_week">(EEE) д ММММ</string>
      <string name="lockscreen_carrier_default">Нет сети</string>
      <string name="low_internal_storage_view_title">Внутреннее хранилище заполнено</string>
-     <string name="low_storage_warning_message">Please free up some space, or some apps and system functions may not work well.</string>
+     <string name="low_storage_warning_message">Пожалуйста, освободите память, иначе некоторые приложения и системные процессы перестанут работать.</string>
      <string name="mtp_locked_section">Хранилище</string>
      <string name="mz_anr_close_or_not">Хотите выйти?</string>
      <string name="mz_date_time_day">д</string>
