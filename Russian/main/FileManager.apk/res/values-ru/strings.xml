@@ -111,7 +111,7 @@
     <string name="ftp_username_hint">Имя пользователя</string>
     <string name="gbk_summary">По умолчанию код в Windows - упрощённый китайский ввод</string>
     <string name="gbk_title">GBK</string>
-    <string name="go_to_folder">Просмотреть каталог</string>
+    <string name="go_to_folder">Перейти в каталог</string>
     <string name="guide_back_to_parent">Нажмите для возврата</string>
     <string name="guide_fileitem_longpress_to_drag">Удерживать для перемещения папки или файла</string>
     <string name="guide_network_neighbor_add_server">Нажмите для добавления сервера</string>
