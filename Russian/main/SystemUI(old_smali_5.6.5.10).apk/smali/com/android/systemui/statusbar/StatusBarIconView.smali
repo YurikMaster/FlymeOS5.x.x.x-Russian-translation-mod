@@ -41,7 +41,7 @@
 
     move-result-object v1
 
-    const v2, 0x7f0a006b
+    const v2, 0x7f0a006d
 
     invoke-virtual {v1, v2}, Landroid/content/res/Resources;->getDimensionPixelSize(I)I
 
@@ -121,7 +121,7 @@
 
     move-result-object v2
 
-    const v3, 0x7f0a006b
+    const v3, 0x7f0a006d
 
     invoke-virtual {v2, v3}, Landroid/content/res/Resources;->getDimensionPixelSize(I)I
 
@@ -153,10 +153,10 @@
     invoke-static {v5}, Lcom/flyme/systemui/statusbar/phone/MeizuCustomizedIcons;->isMeizuCustomizedIcon(Ljava/lang/String;)Z
 
     move-result v5
+	
+	move v9, v5
 
-    move v9, v5
-
-    if-eqz v5, :cond_1
+    if-eqz v5, :cond_0
 
     .line 187
     iget-object v5, p1, Lcom/android/internal/statusbar/StatusBarIcon;->iconPackage:Ljava/lang/String;
@@ -178,20 +178,19 @@
     .line 219
     .end local v2    # "iconId":I
     :goto_0
-    if-nez v9, :cond_0
-
+	
+	if-nez v9, :cond_1s
     invoke-static {p0, p1, v5}, Lcom/android/systemui/statusbar/IconScale;->ScaleIfNeeded(Landroid/content/Context;Lcom/android/internal/statusbar/StatusBarIcon;Landroid/graphics/drawable/Drawable;)Landroid/graphics/drawable/Drawable;
 
     move-result-object v5
-
-    :cond_0
+    :cond_1s
     return-object v5
 
     .line 191
-    :cond_1
+    :cond_0
     iget-object v5, p1, Lcom/android/internal/statusbar/StatusBarIcon;->iconPackage:Ljava/lang/String;
 
-    if-eqz v5, :cond_3
+    if-eqz v5, :cond_2
 
     .line 193
     :try_start_0
@@ -205,13 +204,13 @@
     .local v4, "userId":I
     const/4 v5, -0x1
 
-    if-ne v4, v5, :cond_2
+    if-ne v4, v5, :cond_1
 
     .line 195
     const/4 v4, 0x0
 
     .line 197
-    :cond_2
+    :cond_1
     invoke-virtual {p0}, Landroid/content/Context;->getPackageManager()Landroid/content/pm/PackageManager;
 
     move-result-object v5
@@ -229,7 +228,7 @@
     :goto_1
     iget v5, p1, Lcom/android/internal/statusbar/StatusBarIcon;->iconId:I
 
-    if-nez v5, :cond_4
+    if-nez v5, :cond_3
 
     move-object v5, v6
 
@@ -273,7 +272,7 @@
 
     .line 204
     .end local v1    # "ex":Landroid/content/pm/PackageManager$NameNotFoundException;
-    :cond_3
+    :cond_2
     invoke-virtual {p0}, Landroid/content/Context;->getResources()Landroid/content/res/Resources;
 
     move-result-object v3
@@ -281,7 +280,7 @@
     goto :goto_1
 
     .line 212
-    :cond_4
+    :cond_3
     :try_start_1
     iget v5, p1, Lcom/android/internal/statusbar/StatusBarIcon;->iconId:I
 
@@ -313,7 +312,7 @@
 
     iget-object v5, p1, Lcom/android/internal/statusbar/StatusBarIcon;->iconPackage:Ljava/lang/String;
 
-    if-eqz v5, :cond_5
+    if-eqz v5, :cond_4
 
     iget v5, p1, Lcom/android/internal/statusbar/StatusBarIcon;->iconId:I
 
@@ -351,10 +350,10 @@
     move-object v5, v6
 
     .line 219
-    goto/16 :goto_0
+    goto :goto_0
 
     .line 214
-    :cond_5
+    :cond_4
     const-string v5, "<system>"
 
     goto :goto_2
