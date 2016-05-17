@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/na_detect_net_disconnected" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:layout_width="157.0dip" android:layout_height="157.0dip" android:src="@drawable/na_detect_net_disconnected" />
+        <TextView android:textSize="14.0sp" android:paddingTop="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/na_detect_net_disconnected_summary" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/na_detect_background" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:id="@id/na_detect_top" android:layout_width="fill_parent" android:layout_height="307.0dip">
+            <FrameLayout android:id="@id/secure_scan_rotate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="75.0dip" android:layout_centerHorizontal="true">
+                <com.flyme.netadmin.view.ScanBackground android:layout_gravity="center" android:id="@id/secure_scan_outer_circle" android:visibility="visible" android:layout_width="203.0dip" android:layout_height="203.0dip" />
+                <ImageView android:layout_gravity="center" android:id="@id/secure_scan_inner_circle" android:visibility="visible" android:layout_width="@dimen/na_detect_circle_width" android:layout_height="@dimen/na_detect_circle_height" android:src="@drawable/na_secure_scan_inner_circle" />
+                <ImageView android:layout_gravity="center" android:id="@id/secure_scanning" android:visibility="visible" android:layout_width="@dimen/na_detect_circle_width" android:layout_height="@dimen/na_detect_circle_height" android:src="@drawable/na_detect_scanning" />
+            </FrameLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/na_detect_result" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="130.0dip" android:layout_centerHorizontal="true">
+                <ImageView android:id="@id/na_detect_result_iv" android:visibility="visible" android:layout_width="78.0dip" android:layout_height="78.0dip" android:src="@drawable/na_detect_safe" android:layout_marginLeft="12.0dip" />
+                <TextView android:textSize="14.0sp" android:textColor="#ffffffff" android:layout_gravity="center" android:id="@id/na_detect_result_tv" android:paddingTop="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/na_detect_result_safe" android:layout_below="@id/na_detect_result_iv" android:layout_centerHorizontal="true" />
+            </LinearLayout>
+        </RelativeLayout>
+        <ListView android:id="@id/detect_detail_list_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </LinearLayout>
+</FrameLayout>
