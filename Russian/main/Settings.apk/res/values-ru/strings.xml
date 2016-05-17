@@ -3204,7 +3204,7 @@
     <string name="preferred_network_mode_title">Режим сети</string>
     <string name="data_only">Только данные</string>
     <string name="flyme_button_open_warning">Использование мобильной сети приведет к генерированию трафика</string>
-    <string name="flyme_push_title">Push</string>
+    <string name="flyme_push_title">Push-уведомления</string>
     <string name="lte_4g_switch_prompt">Произойдёт переключение с 2G/3G на 4G. Некоторые активные задачи будут остановлены.</string>
     <string name="flyme_push_dialog_title">Отключить Push-уведомления?</string>
     <string name="flyme_push_dialog_content">Если отключить Push-уведомления, то нельзя будет использовать функцию поиска телефона, синхронизацию нескольких устройств, Flyme-сообщения и другие функции.</string>
@@ -3341,7 +3341,7 @@
     <string name="forget_pwd_associate_account_title">Связать с Flyme-аккаунтом</string>
     <string name="forget_pwd_associate_account_summary">Использовать Flyme-аккаунт для восстановления пароля</string>
     <string name="forget_pwd">Забыли пароль?</string>
-    <string name="easy_mode">Простой режим</string>
+    <string name="easy_mode">Упрощённый режим</string>
     <string name="easy_mode_tip">Будет использоваться упрощенный домашний экран с крупными шрифтом и значками.</string>
     <string name="easy_mode_cancel_dialog_msg">Выйти из Простого режима?</string>
     <string name="search_settings_title">Поиск</string>
