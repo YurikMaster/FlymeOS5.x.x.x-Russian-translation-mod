@@ -556,6 +556,13 @@
     <item type="id" name="scanning_progress">false</item>
     <item type="id" name="wps">false</item>
     <item type="id" name="signal">false</item>
+    <item type="id" name="wifi_detect_panel">false</item>
+    <item type="id" name="speed_test_panel">false</item>
+    <item type="id" name="net_diagn_panel">false</item>
+    <item type="id" name="net_connect_info_panel">false</item>
+    <item type="id" name="detect_scan_view">false</item>
+    <item type="id" name="func_icon">false</item>
+    <item type="id" name="func_title">false</item>
     <item type="id" name="qr_code_iv">false</item>
     <item type="id" name="body">false</item>
     <item type="id" name="question_text">false</item>
@@ -616,6 +623,11 @@
     <item type="id" name="wapi_psk_type">false</item>
     <item type="id" name="wapi_cert">false</item>
     <item type="id" name="wapicert_button">false</item>
+    <item type="id" name="wifi_state_layout">false</item>
+    <item type="id" name="wifi_connected_state_iv">false</item>
+    <item type="id" name="wifi_ap_lock">false</item>
+    <item type="id" name="wifi_connected_state_tv">false</item>
+    <item type="id" name="wifi_speed_on_time">false</item>
     <item type="id" name="nfc_payment_tap_image">false</item>
     <item type="id" name="nfc_payment_empty_text">false</item>
     <item type="id" name="nfc_payment_learn_more">false</item>
@@ -1097,7 +1109,7 @@
     <item type="id" name="vpn_create">false</item>
     <item type="id" name="vpn_lockdown">false</item>
     <item type="id" name="wifi_wps">false</item>
-    <item type="id" name="recently_1_hour">false</item>
+	<item type="id" name="hide_inf_icon">false</item>
+	<item type="id" name="recently_1_hour">false</item>
     <item type="id" name="recently_22_hour">false</item>
-    <item type="id" name="hide_inf_icon">false</item>
 </resources>

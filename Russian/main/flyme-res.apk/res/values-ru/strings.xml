@@ -70,6 +70,7 @@
      <string name="download_pending">Начало загрузки</string>
      <string name="ellipsis">...</string>
      <string name="enable">Вкл.</string>
+     <string name="enable_airplane_notify">In airplane mode, you can manually enable WLAN</string>
      <string name="enterPinWhileNotInPuk">Не удалось изменить PIN-код. Эта операция разрешается только в состоянии PUK.</string>
      <string name="enter_password_error">Неверный пароль! Попробуйте снова.</string>
      <string name="eventTypeLunarBirthday">Новолуние</string>
@@ -146,6 +147,7 @@
      <string name="nfc_activity_not_found_err">Тайм-аут передачи NFC. Передача не может быть осуществлена</string>
      <string name="not_allow_check_app">Отклонить</string>
      <string name="not_allow_dialog_push">Отклонить</string>
+     <string name="not_prompt_notify">Don&apos;t show again</string>
      <string name="online_intenert">Интернет</string>
      <string name="op_camera">Использование камеры</string>
      <string name="op_camera_c">Использование камеры</string>
@@ -198,7 +200,7 @@
      <string name="perm_alert">Всплывающие окна</string>
      <string name="perm_aotulunch">Автозапуск</string>
      <string name="perm_notification">Уведомления</string>
-     <string name="permdesc_add-global_unlock_file">Разрешить приложению добавлять файл разблокировки</string>
+     <string name="permdesc_add-global_unlock_file">Allows this app to add a global unlocking catalog</string>
      <string name="permdesc_backupAccounts">Разрешить приложению сохранять или восстанавливать системные аккаунты</string>
      <string name="permdesc_forceKillProcess">Разрешить приложению завершать процессы</string>
      <string name="permdesc_force_clear_when_granted_expired">Разрешить приложению очищать данные авторизации</string>
@@ -230,6 +232,7 @@
      <string name="phoneTypeFaxWork">Факс</string>
      <string name="pinNotEnableError">Ошибка изменения PIN-кода. Сначала включите защиту PIN-кодом.</string>
      <string name="pppoe_click_to_disconnect">Нажмите, чтобы отключиться.</string>
+     <string name="prompt_title">Prompt</string>
      <string name="r_mms">Чтение MMS</string>
      <string name="r_mms_c">Чтение MMS</string>
      <string name="r_sms">Чтение SMS</string>
@@ -335,6 +338,9 @@
      <string name="url_warning_messgae">Возможно потребление трафика.</string>
      <string name="url_warning_title">Открыть ссылку</string>
      <string name="usb_charging_notification_title">Только зарядка</string>
+     <string name="usb_install_dialog_allow">Allow</string>
+     <string name="usb_install_dialog_deny">Reject</string>
+     <string name="usb_install_dialog_title">The app is being installed via USB</string>
      <string name="usb_mtp_summary">Медиа-устройство (MTP)</string>
      <string name="usb_ptp_summary">Камера (PTP)</string>
      <string name="usbaudio_subtitle">Аудиовыход</string>

@@ -2585,7 +2585,7 @@ This helps protect data on lost or stolen devices."</string>
     <string name="chinese_period">。</string>
     <string name="bluetooth_input_pin_msg">Pair with bluetooth device %1$s</string>
     <string name="tether_method_others">Other sharing</string>
-    <string name="tethered_device_list_title">Connected deives</string>
+    <string name="tethered_device_list_title">Connected devices</string>
     <string name="tether_wps_connect_title">WPS connect</string>
     <string name="wifi_ap_hide_ssid_txt">Hidden network</string>
     <string name="wifi_tether_wps_in_progress">Setting up…</string>
@@ -3395,6 +3395,13 @@ This helps protect data on lost or stolen devices."</string>
     <string name="two_cdma_dialog_msg">Slot 1 and slot 2 cannot support CDMA simultaneously.</string>
     <string name="wifi_proxy_manual">Manual</string>
     <string name="wifi_proxy_auto_set">Proxy auto config</string>
+    <string name="wifi_detect_connecting">Connecting</string>
+    <string name="wifi_detect_scanning">Detecting</string>
+    <string name="wifi_detect_states_safe">Network security</string>
+    <string name="wifi_detect_states_risk">Network unencrypted</string>
+    <string name="wifi_detect_states_disconnected">Internet unavailable</string>
+    <string name="wifi_detect_states_dangerous">Network dangerous</string>
+    <string name="wifi_network_connected_info">Network information</string>
     <string name="logcat_reject_level_title">Logd print</string>
     <string name="logcat_reject_level_prevent_none">Allow all</string>
     <string name="logcat_reject_level_prevent_part">Allow some</string>
@@ -3404,6 +3411,8 @@ This helps protect data on lost or stolen devices."</string>
     <string name="global_data_title">Global Data</string>
     <string name="global_data_summary">Convenient and reliable overseas Data service</string>
     <string name="unsupport_add_account">The application does not support adding accounts</string>
+    <string name="sim1_ringtone_prefix">SIM 1 Ringtone</string>
+    <string name="sim2_ringtone_prefix">SIM 2 Ringtone</string>
     <string name="fast_scroll_alphabet">ABCDEFGHIJKLMNOPQRSTUVWXYZ#</string>
     <string name="vioce_assisant_hit">试试说: 铃声</string>
     <string name="mz_timezone_pacific_majuro">Marshall Islands</string>
@@ -3420,7 +3429,7 @@ This helps protect data on lost or stolen devices."</string>
     <string name="mz_timezone_america_mexico_city">Mexico City</string>
     <string name="mz_timezone_america_regina">Saskatchewan</string>
     <string name="mz_timezone_america_bogota">Bogota</string>
-    <string name="mz_timezone_america_new_york">Eastern Time</string>
+    <string name="mz_timezone_america_new_york">Eastern Time (New York)</string>
     <string name="mz_timezone_america_caracas">Venezuela</string>
     <string name="mz_timezone_america_barbados">Atlantic Time (Barbados)</string>
     <string name="mz_timezone_america_manaus">Manaus</string>
@@ -3610,8 +3619,10 @@ This helps protect data on lost or stolen devices."</string>
     <string name="mc_value_not_checked">Not selected</string>
     <string name="mc_description_target_decline">Reject</string>
     <string name="mc_description_target_answer">Answer</string>
-    <string name="recently_1_hour">Last hour</string>
+	<string name="recently_1_hour">Last hour</string>
     <string name="recently_22_hour">Last 22 hours</string>
+	<string name="hide_inf_icon_str">Hide infinity icon</string>
+    <string name="hide_inf_icon_sum">Reboot your device once you changed this</string>
     <item type="string" name="APKTOOL_DUMMY_988">false</item>
     <item type="string" name="APKTOOL_DUMMY_989">false</item>
     <item type="string" name="APKTOOL_DUMMY_98a">false</item>
@@ -3659,3 +3670,4 @@ This helps protect data on lost or stolen devices."</string>
     <item type="string" name="APKTOOL_DUMMY_9b4">false</item>
     <item type="string" name="APKTOOL_DUMMY_9b5">false</item>
 </resources>
+

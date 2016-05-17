@@ -2648,7 +2648,7 @@
     <string name="wifi_use_static_ip">Статический IP</string>
     <string name="wifi_share_network_title">Поделиться сетью через QR-код</string>
     <string name="wifi_priority_settings_title">Предпочтительная сеть</string>
-    <string name="wifi_speed_test">Тестировать скорость сети</string>
+    <string name="wifi_speed_test">Тест скорости сети</string>
     <string name="wifi_network_diagn">Диагностика сети</string>
     <string name="wifi_forget_network_title">Отклонить сеть</string>
     <string name="wifi_modify_network_title">Изменить пароль</string>
@@ -3552,4 +3552,8 @@
     <string name="mz_timezone_pacific_auckland">Окленд</string>
     <string name="mz_timezone_pacific_fiji">Республика Фиджи</string>
     <string name="mz_timezone_pacific_tongatapu">Остров Тонгатапу</string>
+	<string name="hide_inf_icon_str">Скрыть иконку бесконечности</string>
+    <string name="hide_inf_icon_sum">Необходимо перезагрузить, чтобы изменения вступили в силу</string>
+	<string name="wifi_detect_scanning">Сканирование</string>
+	<string name="wifi_network_connected_info">Информация о сети</string>
 </resources>
