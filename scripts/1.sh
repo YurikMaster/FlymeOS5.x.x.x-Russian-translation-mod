@@ -29,7 +29,7 @@ echo " "
 echo " "
 
 # make partitions writeable
-echo "- Mounting /data, /custom, /system partitions"
+echo "- Mounting /data, /custom, /system partitions..."
 mount /data;
 mount /custom;
 mount /system;
@@ -171,6 +171,10 @@ if [ -d system/xbin ] ; then
         chmod 755 "/$REPLY"
     done
 fi
+echo "- Unmounting  /data, /custom, /system partitions..."
+umount /data;
+umount /custom;
+umount /system;
 echo "- Installation complete!"
 reboot
 
