@@ -726,4 +726,5 @@
     <string name="guide_view_text_title_2">Flash-контент</string>
     <string name="guide_view_text_title_3">Weibo новости</string>
     <string name="guide_view_text_title_4">Покупки</string>
+	<string name="pref_security_accept_push_msg">Push-уведомления</string>
 </resources>
