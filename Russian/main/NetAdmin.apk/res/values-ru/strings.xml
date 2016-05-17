@@ -83,8 +83,11 @@
     <string name="na_speed_download_speed">Загрузка</string>
     <string name="na_speed_network_latency">Задержка</string>
     <string name="na_speed_restart_speed_test">Перезапустить</string>
+    <string name="na_speed_result_dialog_button_text">Закрыть</string>
     <string name="na_speed_start_speed_test">Начать</string>
     <string name="na_speed_stop_speed_test">Остановить</string>
+    <string name="na_speed_test_dialog_summary1">Средняя скорость загрузки</string>
+    <string name="na_speed_test_dialog_title">Результат тестирования</string>
     <string name="na_speed_upload_speed">Отправка</string>
     <string name="na_speed_wifi_disconnected">Отключено</string>
     <string name="mc_allow">Разрешить</string>
@@ -184,9 +187,21 @@
     <string name="mc_search_icon">Поиск</string>
     <string name="mc_search_icon_input_clear">Очистить</string>
     <string name="mc_voice_icon">Голосовой поиск</string>
-    <string name="mc_description_target_answer">Правильный вариант</string>
+    <string name="mc_description_target_answer">Ответить</string>
     <string name="mc_description_target_decline">Отклонить</string>
-	<string name="na_speed_test_dialog_title">Результат тестирования</string>
-    <string name="na_speed_test_dialog_summary1">Средняя скорость загрузки</string>
-    <string name="na_speed_result_dialog_button_text">Закрыть</string>
+	<string name="na_activity_detect_title">Проверка безопасности Wi-Fi</string>
+    <string name="na_detect_arp">ARP-атаки</string>
+    <string name="na_detect_dangerous">Риск</string>
+    <string name="na_detect_dns">DNS-атаки</string>
+    <string name="na_detect_fake">Поддельные сети Wi-Fi</string>
+    <string name="na_detect_net_disconnected_summary">Отсутствует подключение к беспроводной сети</string>
+    <string name="na_detect_phishing">Фишинг</string>
+    <string name="na_detect_result_dangerous">Сеть опасна</string>
+    <string name="na_detect_result_risk">Есть риск</string>
+    <string name="na_detect_result_safe">Сеть безопасна</string>
+    <string name="na_detect_safe">Безопасно</string>
+    <string name="na_detect_security">Сетевое шифрование</string>
+    <string name="na_detect_security_none">Отсутствует</string>
+    <string name="na_detect_support_firm_tip">Мобильная безопасность от Tencent</string>
+    <string name="na_detecting">Проверка</string>
 </resources>
