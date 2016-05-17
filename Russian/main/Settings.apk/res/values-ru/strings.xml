@@ -3556,4 +3556,8 @@
     <string name="hide_inf_icon_sum">Необходимо перезагрузить, чтобы изменения вступили в силу</string>
 	<string name="wifi_detect_scanning">Сканирование</string>
 	<string name="wifi_network_connected_info">Информация о сети</string>
+	<string name="wifi_detect_states_safe">Сеть безопасна</string>
+    <string name="wifi_detect_states_risk">Есть риск</string>
+    <string name="wifi_detect_states_disconnected">Нет интернета</string>
+    <string name="wifi_detect_states_dangerous">Сеть опасна</string>
 </resources>
