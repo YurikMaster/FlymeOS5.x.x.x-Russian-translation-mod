@@ -20,11 +20,11 @@ fi
 VERSION="5.1"
 echo " "
 echo " "
-echo "AlexLartsev19, S0bes, jabro23, Alan626, tthor and skerit presents"
+echo "AlexLartsev19, S0bes, jabro23, Alan626, thhor and skerit presents"
 echo "Russian translation mod installer"
 echo "By flymeos5translate team"
 echo "Script by 1Speede1"
-echo "for Meizu M2 Note (Flyme OS 5.6.5.3)"
+echo "for Meizu M2 Note (Flyme OS 5.6.5.17beta)"
 echo " "
 echo " "
 
