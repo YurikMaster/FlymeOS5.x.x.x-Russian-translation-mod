@@ -103,7 +103,7 @@
     <string name="apk_type_backup">Рез. копия</string>
     <string name="apk_type_damged">Поврежд.</string>
     <string name="apk_type_update">Пакет обновления</string>
-    <string name="apk_white_count">Папка установочного пакета: %1$s</string>
+    <string name="apk_white_count">Папки с установочными дистрибутивами: %1$s</string>
     <string name="app_cache_white_count">Кэш приложений: %1$s</string>
     <string name="app_consumption_management">Управление энергоёмким ПО</string>
     <string name="app_count">" приложен."</string>
@@ -1043,7 +1043,7 @@
     <string name="trafic_mouth_idle_traffic_title">Ежемесячный лимит</string>
     <string name="trafic_mouth_used_idle_traffic_title">Использовано</string>
     <string name="trus_app_empty">Нет приложений для добавления</string>
-    <string name="trust_app_count_num">Приложений: %1$s </string>
+    <string name="trust_app_count_num">Приложений: %1$s</string>
     <string name="trust_app_list_empty">Доверенные приложения не будут проверяться на наличие угроз</string>
     <string name="trust_apps_title">Доверенные приложения</string>
     <string name="type_app">Редко используемое ПО:</string>
@@ -1164,4 +1164,10 @@
     <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
+	<string name="usb_install_activity_label">Установка через USB</string>
+    <string name="usb_install_item_no_record">Нет приложений</string>
+    <string name="usb_install_management">Установка через USB</string>
+    <string name="usb_install_monitor_title">"Установлено через USB: "</string>
+    <string name="usb_install_settings_summary">Отслеживать запросы ПК на установку</string>
+    <string name="usb_install_settings_title">Монитор установок через USB</string>
 </resources>
