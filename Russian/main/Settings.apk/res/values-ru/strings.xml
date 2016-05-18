@@ -3085,7 +3085,7 @@
     <string name="mxdemo_not_allow_format">Форматирование в демо-режиме недоступно</string>
     <string name="show_hide_files">Доступ к скр. файлам</string>
     <string name="backup_phone_data">Резервная копия</string>
-    <string name="erase_btn">Восстановить</string>
+    <string name="erase_btn">Выполнить</string>
     <string name="reset_phone">Очистка данных телефона</string>
     <string name="reset_phone_dlg_title">Сброс к заводским настройкам</string>
     <string name="reset_phone_dlg_message">Происходит удаление всех данных (включая фотографии и видео). Будьте осторожны!</string>
