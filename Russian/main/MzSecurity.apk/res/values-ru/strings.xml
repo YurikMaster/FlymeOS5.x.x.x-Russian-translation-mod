@@ -103,7 +103,7 @@
     <string name="apk_type_backup">Рез. копия</string>
     <string name="apk_type_damged">Поврежд.</string>
     <string name="apk_type_update">Пакет обновления</string>
-    <string name="apk_white_count">Папки с установочными дистрибутивами: %1$s</string>
+    <string name="apk_white_count">Папки с дистрибутивами: %1$s</string>
     <string name="app_cache_white_count">Кэш приложений: %1$s</string>
     <string name="app_consumption_management">Управление энергоёмким ПО</string>
     <string name="app_count">" приложен."</string>
