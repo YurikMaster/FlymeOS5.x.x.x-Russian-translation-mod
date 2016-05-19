@@ -294,4 +294,8 @@
     <string name="install_warning_default_summry"></string>
 	<string name="perms_new_perm_prefix">"Новое: "</string>
 	<string name="no_permissions">Нет разрешений</string>
+	<string name="install_error">Установка не выполнена</string>
+	<string name="insufficient_storage">Недостаточно свободной памяти на устройстве. Пожалуйста, освободите место для установки</string>
+	<string name="dexopt">Недостаточно свободной памяти на устройстве. Пожалуйста, освободите место для установки</string>
+	<string name="install_error_statement">%1$s.</string>
 </resources>
