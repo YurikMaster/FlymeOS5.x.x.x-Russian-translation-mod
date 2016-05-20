@@ -39,7 +39,7 @@
     <string name="alarm_repeat_type_statutory_working_days">Рабочие дни</string>
     <string name="all_special">Все</string>
     <string name="all_update">Все обновления</string>
-    <string name="alwaysUse">По умолчанию для этого действия</string>
+    <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="apply">Применить</string>
     <string name="apply_both_wallpaper">На оба экрана</string>
     <string name="apply_launcher_wallpaper">На рабочий стол</string>
@@ -230,12 +230,12 @@
     <string name="mc_last_refresh_minute">мин. назад</string>
     <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_loading_view_text">Загрузка</string>
-    <string name="mc_minute">мин</string>
+    <string name="mc_minute">мин.</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_never">Единожды</string>
     <string name="mc_pattern_just_now">Сейчас</string>
     <string name="mc_permission_apply">Разрешения</string>
-    <string name="mc_permission_message_content">%1$s требуется %2$s %3$d разрешений</string>
+    <string name="mc_permission_message_content">%1$s требуется %2$s, %3$d разрешений</string>
     <string name="mc_pm_allow_check_app">Разрешить</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
@@ -273,7 +273,7 @@
     <string name="mc_search_icon">Поиск</string>
     <string name="mc_search_icon_input_clear">Очистить</string>
     <string name="mc_search_text">Поиск</string>
-    <string name="mc_second">сек</string>
+    <string name="mc_second">сек.</string>
     <string name="mc_selectionbutton_all">Все</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
@@ -315,7 +315,7 @@
     <string name="mz_date_time_sec">с</string>
     <string name="mz_date_time_year">г</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
-    <string name="mz_wif_setting_dialog_message">Нет сети. Проверьте настройки сети.</string>
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Установить</string>
     <string name="mzuc_cancel">Отменить</string>
     <string name="mzuc_cancel_download">Отменить загрузку</string>

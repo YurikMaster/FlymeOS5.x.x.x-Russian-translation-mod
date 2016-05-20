@@ -138,8 +138,8 @@
     <string-array name="pref_default_all_day_reminder_labels">
         <item>Нет</item>
         <item>В день события (9:00 утра)</item>
-        <item>За 1 день (9:00 утра)</item>
-        <item>За 2 дня (9:00 утра)</item>
+        <item>За 1 день до события (9:00 утра)</item>
+        <item>За 2 дня до события (9:00 утра)</item>
     </string-array>
     <string-array name="pref_default_reminder_labels">
         <item>Нет</item>

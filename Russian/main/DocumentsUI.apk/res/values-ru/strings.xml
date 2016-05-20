@@ -51,7 +51,7 @@
     <string name="title_save">Сохранить</string>
     <string name="toast_failed_delete">Не удалось удалить некоторые документы</string>
     <string name="toast_no_application">Не удалось открыть файл</string>
-    <string name="alwaysUse">По умолчанию для этого действия</string>
+    <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="date_time_set">Установить</string>
     <string name="mz_date_time_day">д</string>
     <string name="mz_date_time_hour">ч</string>
@@ -80,7 +80,7 @@
     <string name="mc_go_Refreshing">Обновить</string>
     <string name="mc_hour">час</string>
     <string name="mc_is_Refreshing">Обновление</string>
-    <string name="mc_minute">мин</string>
+    <string name="mc_minute">мин.</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_never">Единожды</string>
     <string name="mc_pattern_a_hour_before">час назад</string>
@@ -132,7 +132,7 @@
     <string name="mc_reject">Отклонить</string>
     <string name="mc_saturday">СБ</string>
     <string name="mc_search">Поиск</string>
-    <string name="mc_second">сек</string>
+    <string name="mc_second">сек.</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_leap">Встав.</string>
@@ -147,8 +147,8 @@
     <string name="mc_last_refresh">Последнее обновление</string>
     <string name="mc_last_refresh_hour">" час назад"</string>
     <string name="mc_last_refresh_just_now">сейчас</string>
-    <string name="mc_last_refresh_minute">мин назад</string>
-    <string name="mc_last_refresh_second">сек назад</string>
+    <string name="mc_last_refresh_minute">мин. назад</string>
+    <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_loading_view_text">Загрузка</string>
     <string name="mc_search_button_text">Поиск</string>
     <string name="mc_search_text">Поиск</string>
@@ -157,6 +157,6 @@
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
-    <string name="mz_wif_setting_dialog_message">Нет сети. Проверьте настройки сети.</string>
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Установить</string>
 </resources>

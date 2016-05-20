@@ -3360,7 +3360,7 @@
     <string name="mz_date_time_min">м</string>
     <string name="mz_date_time_sec">с</string>
     <string name="date_time_set">Установить</string>
-    <string name="alwaysUse">По умолчанию для этого действия</string>
+    <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Установить</string>
     <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>

@@ -13,7 +13,7 @@
     <string name="abc_searchview_description_voice">Голосовой поиск</string>
     <string name="abc_shareactionprovider_share_with">Поделиться</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с пользователем %s</string>
-    <string name="alwaysUse">По умолчанию для этого действия</string>
+    <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="app_name">Контакты SIM</string>
     <string name="app_name_contact">Контакты</string>
     <string name="cancel">Отмена</string>
@@ -66,10 +66,10 @@
     <string name="mc_last_refresh">Последнее обновление</string>
     <string name="mc_last_refresh_hour">" ч. назад"</string>
     <string name="mc_last_refresh_just_now">сейчас</string>
-    <string name="mc_last_refresh_minute">мин назад</string>
+    <string name="mc_last_refresh_minute">мин. назад</string>
     <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_loading_view_text">Загрузка</string>
-    <string name="mc_minute">мин</string>
+    <string name="mc_minute">мин.</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_never">Единожды</string>
     <string name="mc_permission_apply">Разрешения</string>
@@ -111,7 +111,7 @@
     <string name="mc_search_icon">Поиск</string>
     <string name="mc_search_icon_input_clear">Очистить</string>
     <string name="mc_search_text">Поиск</string>
-    <string name="mc_second">сек</string>
+    <string name="mc_second">сек.</string>
     <string name="mc_selectionbutton_all">Все</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
@@ -135,7 +135,7 @@
     <string name="mz_date_time_sec">с</string>
     <string name="mz_date_time_year">г</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
-    <string name="mz_wif_setting_dialog_message">Нет сети. Проверьте настройки сети.</string>
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Установить</string>
     <string name="mzs_contact_list_count">Контактов: %s</string>
     <string name="mzs_detail_delete_fail">Ошибка удаления</string>

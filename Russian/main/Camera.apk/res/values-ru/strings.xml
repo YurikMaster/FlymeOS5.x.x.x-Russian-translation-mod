@@ -17,7 +17,7 @@
     <string name="accessibility_review_cancel">Отмена</string>
     <string name="accessibility_review_ok">Готово</string>
     <string name="accessibility_review_retake">Ещё раз</string>
-    <string name="alwaysUse">По умолчанию для этого действия</string>
+    <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="app_name">Камера</string>
     <string name="auto">Авто</string>
     <string name="camera_disabled">Камера отключена в соответствии с политикой безопасности.</string>
@@ -91,14 +91,14 @@
     <string name="mc_last_refresh">Последнее обновление</string>
     <string name="mc_last_refresh_hour">" ч. назад"</string>
     <string name="mc_last_refresh_just_now">сейчас</string>
-    <string name="mc_last_refresh_minute">мин назад</string>
+    <string name="mc_last_refresh_minute">мин. назад</string>
     <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_loading_view_text">Загрузка</string>
-    <string name="mc_minute">мин</string>
+    <string name="mc_minute">мин.</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_never">Единожды</string>
     <string name="mc_permission_apply">Разрешения</string>
-    <string name="mc_permission_message_content">%1$s требуется %2$s %3$d разрешений</string>
+    <string name="mc_permission_message_content">%1$s требуется %2$s, %3$d разрешений</string>
     <string name="mc_pm_allow_check_app">Разрешить</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
@@ -136,7 +136,7 @@
     <string name="mc_search_icon">Поиск</string>
     <string name="mc_search_icon_input_clear">Очистить</string>
     <string name="mc_search_text">Поиск</string>
-    <string name="mc_second">сек</string>
+    <string name="mc_second">сек.</string>
     <string name="mc_selectionbutton_all">Все</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>

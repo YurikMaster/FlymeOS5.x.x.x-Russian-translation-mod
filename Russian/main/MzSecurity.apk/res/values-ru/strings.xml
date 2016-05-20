@@ -98,7 +98,7 @@
     <string name="already_deep_clean_text">Удалено документов: %1$s</string>
     <string name="already_deep_clean_video">Удалено %1$s видео</string>
     <string name="already_deep_clean_zip">Удалено архивов: %1$s</string>
-    <string name="alwaysUse">По умолчанию для этого действия</string>
+    <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="anonymous_number">Неизвестные номера</string>
     <string name="apk_type_backup">Рез. копия</string>
     <string name="apk_type_damged">Поврежд.</string>
@@ -116,8 +116,8 @@
     <string name="app_standby_management">Управление спящим режимом</string>
     <string name="app_waken_allowed_from_cnt">Разрешён запуск для %1$s прилож.</string>
     <string name="app_waken_details_empty_txt">Нет истории запусков</string>
-    <string name="app_waken_details_info1_0">Попытка запуска %1$s раз, %2$s сек назад</string>
-    <string name="app_waken_details_info1_1">Попыток запуска %1$s раз, %2$s мин назад</string>
+    <string name="app_waken_details_info1_0">Попытка запуска %1$s раз, %2$s сек. назад</string>
+    <string name="app_waken_details_info1_1">Попыток запуска %1$s раз, %2$s мин. назад</string>
     <string name="app_waken_details_info1_2">Попыток запуска %1$s раз, %2$s ч. назад</string>
     <string name="app_waken_details_info1_3">Попыток запуска %1$s раз, %2$s д. назад</string>
     <string name="app_waken_details_info2">Попытка запуска: %1$s раз</string>
@@ -128,13 +128,13 @@
     <string name="app_waken_details_title">Приложение</string>
     <string name="app_waken_from_cnt">Запрет запуска %1$s приложений</string>
     <string name="app_waken_from_empty">Общий запуск запрещён</string>
-    <string name="app_waken_item_time0">%1$s сек назад</string>
-    <string name="app_waken_item_time1">%1$s мин назад</string>
+    <string name="app_waken_item_time0">%1$s сек. назад</string>
+    <string name="app_waken_item_time1">%1$s мин. назад</string>
     <string name="app_waken_item_time2">%1$s ч. назад</string>
     <string name="app_waken_item_time3">%1$s д. назад</string>
     <string name="app_waken_list_title_allow">Связанный запуск: %1$s</string>
-    <string name="app_waken_list_title_forbid">Запрет на связанный запуск: %1$s</string>
-    <string name="app_waken_setting_switch">Связанный запуск приложений</string>
+    <string name="app_waken_list_title_forbid">Запрет на общий запуск: %1$s</string>
+    <string name="app_waken_setting_switch">Общий старт приложений</string>
     <string name="app_waken_tab_empty">Нет запущенных приложений</string>
     <string name="app_waken_tab_waken_mutually">Связанный запуск</string>
     <string name="appcache_uninstalled_trash_other">Другие файлы</string>
@@ -443,10 +443,10 @@
     <string name="mc_last_refresh">Последнее обновление</string>
     <string name="mc_last_refresh_hour">" ч. назад"</string>
     <string name="mc_last_refresh_just_now">сейчас</string>
-    <string name="mc_last_refresh_minute">мин назад</string>
+    <string name="mc_last_refresh_minute">мин. назад</string>
     <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_loading_view_text">Загрузка</string>
-    <string name="mc_minute">мин</string>
+    <string name="mc_minute">мин.</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_never">Единожды</string>
     <string name="mc_permission_apply">Разрешения</string>
@@ -488,7 +488,7 @@
     <string name="mc_search_icon">Поиск</string>
     <string name="mc_search_icon_input_clear">Очистить</string>
     <string name="mc_search_text">Поиск</string>
-    <string name="mc_second">сек</string>
+    <string name="mc_second">сек.</string>
     <string name="mc_selectionbutton_all">Все</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
@@ -533,7 +533,7 @@
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
-    <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
+    <string name="mz_action_bar_multi_choice_title">Выбрано: %d</string>
     <string name="mz_black_list_no_list">В чёрном списке нет элементов</string>
     <string name="mz_block_day">д</string>
     <string name="mz_block_list_header">Блокировать записи за последние 30 дней</string>
@@ -554,7 +554,7 @@
     <string name="mz_traffic_get_sms_timeout">Таймаут запроса данных</string>
     <string name="mz_traffic_no_sim_card">SIM-карта не обнаружена. Установите SIM-карту и попробуйте снова.</string>
     <string name="mz_traffic_send_sms_to_operator">Отправка сообщения оператору</string>
-    <string name="mz_wif_setting_dialog_message">Нет сети. Проверьте настройки сети.</string>
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Установить</string>
     <string name="mzuc_cancel">Отменить</string>
     <string name="mzuc_cancel_download">Отменить загрузку</string>
@@ -605,7 +605,7 @@
     <string name="notify_title_web_push_message">"Новое &lt;font color='#ff6c00'>WAP push сообщение&lt;/font> блокировано"</string>
     <string name="now_slimming">Очистить</string>
     <string name="number">Номер</string>
-    <string name="old_version">Прошлые версии</string>
+    <string name="old_version">Устаревшие версии</string>
     <string name="one_day">Ежедневно</string>
     <string name="op_camera">Камера</string>
     <string name="op_camera_c">Использовать камеру</string>
@@ -847,7 +847,7 @@
     <string name="super_connect_pro_info">Выкл. Bluetooth,GPS и NFC</string>
     <string name="super_cpu_info">ЦП в энергосберегающем режиме</string>
     <string name="super_data_info">Моб. сеть и Wi-Fi</string>
-    <string name="super_homelight_info">Выкл. подсветку кнопки Домой</string>
+    <string name="super_homelight_info">Выкл. подсветку кнопки \"Домой\"</string>
     <string name="super_intro_info">Отключить все приложения, кроме телефона и сообщений</string>
     <string name="super_key_wake_info">Пробуждение жестом</string>
     <string name="super_screentime_info">Выключить экран через 15 сек.</string>
@@ -906,7 +906,7 @@
     <string name="title">Трафик</string>
     <string name="title_activity_app_sec">Приложения</string>
     <string name="title_alarm_algin">Запланированные уведомления</string>
-    <string name="title_allow_item">Разрешить %1$s: %2$s</string>
+    <string name="title_allow_item">Разрешено - %1$s: %2$s</string>
     <string name="title_app_cutawaken">Пробужден. ПО в спящем режиме</string>
     <string name="title_app_killed_notification">Автоостановка энергоёмких приложений</string>
     <string name="title_app_sleep_manager">Управление приложениями</string>
@@ -938,8 +938,8 @@
     <string name="title_power_low_mode">Заряд менее %1$d%2$s!</string>
     <string name="title_power_mode">Энергосбережение</string>
     <string name="title_power_setting">Настройки</string>
-    <string name="title_prompt_item">Запрос на %1$s: %2$s</string>
-    <string name="title_reject_item">Запрет на %1$s: %2$s</string>
+    <string name="title_prompt_item">Запрос на - %1$s: %2$s</string>
+    <string name="title_reject_item">Запрещено - %1$s: %2$s</string>
     <string name="title_screen_autobright">Автояркость</string>
     <string name="title_screen_blur">Динамическое размытие</string>
     <string name="title_screen_bright">Яркость</string>

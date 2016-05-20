@@ -106,7 +106,7 @@
     <string name="meeting">Совещание</string>
     <string name="mute">Без звука</string>
     <string name="outdoor">Улица</string>
-    <string name="offline">Режим полета</string>
+    <string name="offline">Режим полёта</string>
     <string name="brightness">Яркость</string>
     <string name="timeout">Время ожидания</string>
     <string name="data_connection_attach_timeout_error_msg">Передача данных нарушена или сеть занята.</string>
@@ -124,7 +124,7 @@
     <string name="gemini_3g_disable_warning_case4">Сначала вы должны разрешить роуминг данных для данной SIM, что может привести к значительным расходам за роуминг! Кроме того, 3G услуга не доступна с этой SIM-картой. Данные могут загружаться медленно. Вы можете изменить это в Настройки > Управление SIM. Вы уверены что разрешаете роуминг данных и в выборе этой SIM?</string>
     <string name="confirm_radio_title">SIM-карта отключена</string>
     <string name="confirm_radio_msg">%1$s отключена. Хотите включить эту SIM-карту?</string>
-    <string name="confirm_radio_msg_single">Режим полета включен, хотите отключить его?</string>
+    <string name="confirm_radio_msg_single">Режим полёта включен, хотите отключить его?</string>
     <string name="confirm_radio_lbutton">Включить</string>
     <string name="builtin_installer_title_message">Встроенный CD-ROM</string>
     <string name="builtin_installer_dlg_message">Включить встроенный CD-ROM?</string>
@@ -831,7 +831,7 @@
     <string name="mz_date_time_min">м</string>
     <string name="mz_date_time_sec">с</string>
     <string name="date_time_set">Установить</string>
-    <string name="alwaysUse">По умолчанию для этого действия</string>
+    <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Установить</string>
     <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
@@ -861,8 +861,8 @@
     <string name="mc_yes">ОК</string>
     <string name="mc_cancel">Отмена</string>
     <string name="mc_hour">час</string>
-    <string name="mc_minute">мин</string>
-    <string name="mc_second">сек</string>
+    <string name="mc_minute">мин.</string>
+    <string name="mc_second">сек.</string>
     <string name="more_item_label">Ещё</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_tuesday">ВТ</string>

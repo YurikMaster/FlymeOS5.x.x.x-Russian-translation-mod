@@ -23,5 +23,5 @@
   <string name="toast_backup_ended">Резервное копирование завершено</string>
   <string name="toast_restore_started">Восстановление...</string>
   <string name="toast_restore_ended">Восстановление завершено.</string>
-  <string name="toast_timeout">Тайм-аут операции</string>
+  <string name="toast_timeout">Время ожидания истекло</string>
 </resources>

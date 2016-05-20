@@ -117,7 +117,7 @@
     <string name="sim_manage_indicator_3g">3G</string>
     <string name="cannot_answered_Video_Call">Ответить на видеовызов нельзя, так как осуществляется голосовой вызов</string>
     <string name="cannot_answered_Voice_Call">Ответить на голосовой вызов нельзя, так как осуществляется видеовызов</string>
-    <string name="callDurationFormat">%1$s мин %2$s сек</string>
+    <string name="callDurationFormat">%1$s мин. %2$s сек.</string>
     <string name="reminder">Напоминание</string>
     <string name="vt_media_occupied">Невозможно подключить видеозвонок из-за отсутствия камеры. Проверьте, не используется ли камера другим приложением.</string>
     <string name="vt_media_video_fail">Плохое качество видеосвязи. Видеозвонок прерван</string>
@@ -1168,7 +1168,7 @@ flyme message and file transfer、contact
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
-    <string name="mz_action_bar_multi_choice_select_all_cancel">None</string>
+    <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
     <string name="mz_date_time_month">м</string>
     <string name="mz_date_time_year">г</string>
@@ -1177,10 +1177,10 @@ flyme message and file transfer、contact
     <string name="mz_date_time_min">м</string>
     <string name="mz_date_time_sec">с</string>
     <string name="date_time_set">Установить</string>
-    <string name="alwaysUse">По умолчанию для этого действия</string>
+    <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Установить</string>
-    <string name="mz_wif_setting_dialog_message">Нет сети. Проверьте настройки сети.</string>
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
     <string name="mc_pattern_hour_minute_12" formatted="false">%p %I:%M</string>
     <string name="mc_pattern_week">%a</string>
@@ -1206,9 +1206,9 @@ flyme message and file transfer、contact
     <string name="mc_hello_world">Hello world!</string>
     <string name="mc_yes">ОК</string>
     <string name="mc_cancel">Отмена</string>
-    <string name="mc_hour">час</string>
-    <string name="mc_minute">мин</string>
-    <string name="mc_second">сек</string>
+    <string name="mc_hour">час.</string>
+    <string name="mc_minute">мин.</string>
+    <string name="mc_second">сек.</string>
     <string name="more_item_label">Ещё</string>
     <string name="mc_monday">ПН</string>
     <string name="mc_tuesday">ВТ</string>
@@ -1221,12 +1221,12 @@ flyme message and file transfer、contact
     <string name="mc_every_day">Ежедневно</string>
     <string name="mc_working_day">Будни</string>
     <string name="mc_weekend">Выходные</string>
-    <string name="mc_date_time_month">м</string>
-    <string name="mc_date_time_year">г</string>
-    <string name="mc_date_time_day">д</string>
-    <string name="mc_date_time_hour">ч</string>
-    <string name="mc_date_time_min">м</string>
-    <string name="mc_date_time_sec">с</string>
+    <string name="mc_date_time_month">м.</string>
+    <string name="mc_date_time_year">г.</string>
+    <string name="mc_date_time_day">д.</string>
+    <string name="mc_date_time_hour">ч.</string>
+    <string name="mc_date_time_min">м.</string>
+    <string name="mc_date_time_sec">с.</string>
     <string name="mc_date_time_set">Установить</string>
     <string name="mc_description_target_decline">Отклонить</string>
     <string name="mc_description_target_answer">Правильный вариант</string>
@@ -1269,9 +1269,9 @@ flyme message and file transfer、contact
     <string name="mc_is_Refreshing">Обновление</string>
     <string name="mc_go_Refreshing">Обновить</string>
     <string name="mc_last_refresh">Последнее обновление</string>
-    <string name="mc_last_refresh_hour">" час назад"</string>
+    <string name="mc_last_refresh_hour">" ч. назад"</string>
     <string name="mc_last_refresh_minute">мин назад</string>
-    <string name="mc_last_refresh_second">сек назад</string>
+    <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_last_refresh_just_now">сейчас</string>
     <string name="mc_selectionbutton_all">Все</string>
     <string name="mc_search">Поиск</string>
