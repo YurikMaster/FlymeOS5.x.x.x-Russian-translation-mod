@@ -132,11 +132,11 @@
     <string name="app_waken_item_time1">%1$s мин. назад</string>
     <string name="app_waken_item_time2">%1$s ч. назад</string>
     <string name="app_waken_item_time3">%1$s д. назад</string>
-    <string name="app_waken_list_title_allow">Связанный запуск: %1$s</string>
+    <string name="app_waken_list_title_allow">Общий запуск: %1$s</string>
     <string name="app_waken_list_title_forbid">Запрет на общий запуск: %1$s</string>
     <string name="app_waken_setting_switch">Общий старт приложений</string>
     <string name="app_waken_tab_empty">Нет запущенных приложений</string>
-    <string name="app_waken_tab_waken_mutually">Связанный запуск</string>
+    <string name="app_waken_tab_waken_mutually">Общий запуск</string>
     <string name="appcache_uninstalled_trash_other">Другие файлы</string>
     <string name="application_list">Список приложений:</string>
     <string name="application_managerment">Управление приложениями</string>
