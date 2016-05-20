@@ -1055,7 +1055,7 @@
     <string name="type_text">Документы:</string>
     <string name="type_video">Видео:</string>
     <string name="type_virus">Вредоносные приложения:</string>
-    <string name="type_zip">Архив:</string>
+    <string name="type_zip">Архивы:</string>
     <string name="ultra_power_mode_desc">Только звонки и сообщения</string>
     <string name="uninstall">Удалить сейчас</string>
     <string name="uninstall2">Удаление</string>
@@ -1170,4 +1170,6 @@
     <string name="usb_install_monitor_title">"Установлено через USB: "</string>
     <string name="usb_install_settings_summary">Отслеживать запросы ПК на установку</string>
     <string name="usb_install_settings_title">Монитор установок через USB</string>
+	<string name="already_deep_clean_similar_photo">%1$s похожих фото удалено</string>
+    <string name="similar_photo">Похожие фото</string>
 </resources>
