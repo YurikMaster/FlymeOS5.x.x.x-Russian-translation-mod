@@ -2993,7 +2993,7 @@
     <string name="screen_force_wakeup_title">Принудительное пробуждение</string>
     <string name="screen_force_wakeup_summary">Онлайн синхронизация сообщений, контактов, обмен данными</string>
     <string name="app_force_wakeup_rank">Будящие приложения</string>
-    <string name="app_force_wakeup_summary">%2$d пробуждений, продолжительностью %1$s</string>
+    <string name="app_force_wakeup_summary">"Пробуждений: %2$d\nПродолжительность: %1$s"</string>
     <string name="app_force_wakeup_frequency">%d d/h</string>
     <string name="battery_usage_statistics">Статистика потребления</string>
     <string name="system_sleep_wakeup_time">Время пробуждения:</string>
