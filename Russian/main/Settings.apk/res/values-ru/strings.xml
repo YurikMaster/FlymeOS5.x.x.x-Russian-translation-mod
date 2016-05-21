@@ -3009,7 +3009,7 @@
     <string name="app_force_screen_on_title">Время принудительного пробуждения:</string>
     <string name="app_force_screen_on_summary">Навигация, просмотр видео, игры</string>
     <string name="app_force_screen_on_rank">Приложения использующие экран</string>
-    <string name="durationHourMinuteSecond">%1$d ч. %2$d мин. %3$d с</string>
+    <string name="durationHourMinuteSecond">%1$d ч. %2$d мин. %3$d с.</string>
     <string name="power_usage_percent">Использование батареи: %s</string>
     <string name="counts">%d раз(а)</string>
     <string name="radio_weak_time">Слабый сигнал:</string>
