@@ -107,10 +107,10 @@
     <string name="durationHourMinute">%1$d ч. %2$d мин.</string>
     <string name="durationMinutes">%1$d мин.</string>
     <string name="durationMinute">%1$d мин.</string>
-    <string name="durationMinuteSeconds">%1$d мин. %2$d с</string>
-    <string name="durationMinuteSecond">%1$d мин. %2$d с</string>
-    <string name="durationSeconds">%1$d с</string>
-    <string name="durationSecond">%1$d с</string>
+    <string name="durationMinuteSeconds">%1$d мин. %2$d с.</string>
+    <string name="durationMinuteSecond">%1$d мин. %2$d с.</string>
+    <string name="durationSeconds">%1$d с.</string>
+    <string name="durationSecond">%1$d с.</string>
     <string name="mmiError">Неполадки подключения или неверный код MMI.</string>
     <string name="mmiFdnError">Операция возможна только для разрешенных номеров.</string>
     <string name="serviceEnabled">Служба включена</string>
