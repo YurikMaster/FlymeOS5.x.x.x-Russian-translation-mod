@@ -2492,7 +2492,7 @@
 
     move-result-object v0
 
-    const-string v1, "\u8bbe\u7f6e\u94c3\u58f0\u5931\u8d25"
+    const-string v1, "\u041d\u0435 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043e"
 
     const/4 v3, 0x0
 
@@ -2529,7 +2529,7 @@
 
     move-result-object v0
 
-    const-string v1, "\u5df2\u6210\u529f\u8bbe\u7f6e\u4e3a\u94c3\u58f0"
+    const-string v1, "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043e"
 
     const/4 v3, 0x0
 
@@ -2588,7 +2588,7 @@
 
     move-result-object v0
 
-    const-string v1, "\u8bbe\u7f6e\u94c3\u58f0\u5931\u8d25"
+    const-string v1, "\u041d\u0435 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043e"
 
     const/4 v3, 0x0
 
