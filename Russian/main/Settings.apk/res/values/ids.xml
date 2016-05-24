@@ -517,6 +517,9 @@
     <item type="id" name="start_icon">false</item>
     <item type="id" name="seekbar">false</item>
     <item type="id" name="end_icon">false</item>
+    <item type="id" name="info">false</item>
+    <item type="id" name="cmcc_flied">false</item>
+    <item type="id" name="cmcc_detail_dialog">false</item>
     <item type="id" name="mz_select_box">false</item>
     <item type="id" name="mz_column_parent">false</item>
     <item type="id" name="mz_column1Layout">false</item>
@@ -598,7 +601,6 @@
     <item type="id" name="volume_notification_panel">false</item>
     <item type="id" name="volume_system_sound_panel">false</item>
     <item type="id" name="mz_wifi_info">false</item>
-    <item type="id" name="info">false</item>
     <item type="id" name="ssid">false</item>
     <item type="id" name="security">false</item>
     <item type="id" name="security_fields">false</item>
@@ -737,6 +739,14 @@
     <item type="id" name="preference_title">false</item>
     <item type="id" name="picker">false</item>
     <item type="id" name="settings_button">false</item>
+    <item type="id" name="sim_info">false</item>
+    <item type="id" name="simIconSel">false</item>
+    <item type="id" name="simStatusSel">false</item>
+    <item type="id" name="simNumFormatSel">false</item>
+    <item type="id" name="simTextinfoSel">false</item>
+    <item type="id" name="simNameSel">false</item>
+    <item type="id" name="simNumSel">false</item>
+    <item type="id" name="Enable_select">false</item>
     <item type="id" name="pref_left_button">false</item>
     <item type="id" name="pref_right_button">false</item>
     <item type="id" name="pref_radio">false</item>
@@ -997,6 +1007,8 @@
     <item type="id" name="wifi_advanced_fields">false</item>
     <item type="id" name="proxy_pac_field">false</item>
     <item type="id" name="proxy_pac">false</item>
+    <item type="id" name="reminder">false</item>
+    <item type="id" name="cmcc_priority_setter">false</item>
     <item type="id" name="top_padding_layout">false</item>
     <item type="id" name="top_padding">false</item>
     <item type="id" name="wifi_setup_title">false</item>
