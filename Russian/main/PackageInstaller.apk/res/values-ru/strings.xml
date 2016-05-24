@@ -298,4 +298,6 @@
 	<string name="insufficient_storage">Недостаточно свободной памяти на устройстве. Пожалуйста, освободите место для установки</string>
 	<string name="dexopt">Недостаточно свободной памяти на устройстве. Пожалуйста, освободите место для установки</string>
 	<string name="install_error_statement">%1$s.</string>
+	<string name="warning_title_risk_remind">Напоминание о риске</string>
+    <string name="install_warning_default">Пожалуйста, не устанавливайте приложения из неизвестных источников.</string>
 </resources>
