@@ -396,4 +396,11 @@
     <string name="event_smart_bar">Список событий</string>
     <string name="in_num_calc_after">%d дн. вперёд</string>
     <string name="in_num_calc_ago">%d дн. назад</string>
+	<string name="pref_title_calendars">Аккаунт и отображаемые события</string>
+    <string name="pref_title_default_calendar_header">Аккаунт по умолчанию</string>
+	<string name="pref_title_general_preferences">Главные настройки</string>
+    <string name="pref_title_hide_declined">Скрыть отклонённые события</string>
+    <string name="pref_title_hide_past">Скрыть прошедшие события</string>
+	<string name="pref_summary_hide_declined">Отклонённые события не отображаются</string>
+    <string name="pref_summary_hide_past">События до сегодняшнего дня не отображаются</string>
 </resources>
