@@ -403,4 +403,6 @@
     <string name="pref_title_hide_past">Скрыть прошедшие события</string>
 	<string name="pref_summary_hide_declined">Отклонённые события не отображаются</string>
     <string name="pref_summary_hide_past">События прошедшие до сегодняшнего дня, не отображаются</string>
+	<string name="pref_title_alerts">Напоминание о новом событии</string>
+	<string name="pref_title_reminder_popup">о приглашениях и встречах</string>
 </resources>
