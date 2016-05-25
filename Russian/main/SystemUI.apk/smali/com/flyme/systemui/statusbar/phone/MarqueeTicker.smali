@@ -460,7 +460,7 @@
 
     move-result v4
 
-    if-ge v11, v4, :cond_5
+    if-ge v11, v4, :cond_6
 
     .line 139
     move-object/from16 v0, p0
@@ -576,7 +576,7 @@
 
     move-result v4
 
-    goto :goto_3
+    goto :cond_5
 
     .line 124
     move-object/from16 v0, p0
@@ -592,13 +592,21 @@
     invoke-virtual {v4, v5}, Landroid/content/res/Resources;->getDrawable(I)Landroid/graphics/drawable/Drawable;
 
     move-result-object v18
+	
+	iget-object v0, v0, Lcom/flyme/systemui/statusbar/phone/MarqueeTicker;->mContext:Landroid/content/Context;
+
+    invoke-static {v0, v13}, Lcom/flyme/systemui/statusbar/phone/IconScaleTicker;->ScaleTicker(Landroid/content/Context;Landroid/graphics/drawable/Drawable;)Landroid/graphics/drawable/Drawable;
+
+    move-result-object v13
+
+    move-object/from16 v18, v13
 
     .restart local v18    # "tickerIcon":Landroid/graphics/drawable/Drawable;
     goto/16 :goto_1
 
     .line 127
     .end local v18    # "tickerIcon":Landroid/graphics/drawable/Drawable;
-    :goto_3
+    :cond_5
     move-object/from16 v0, p0
 
     iget-object v4, v0, Lcom/flyme/systemui/statusbar/phone/MarqueeTicker;->mContext:Landroid/content/Context;
@@ -613,14 +621,6 @@
 
     move-result-object v18
 
-    iget-object v0, v0, Lcom/flyme/systemui/statusbar/phone/MarqueeTicker;->mContext:Landroid/content/Context;
-
-    invoke-static {v0, v13}, Lcom/flyme/systemui/statusbar/phone/IconScaleTicker;->ScaleTicker(Landroid/content/Context;Landroid/graphics/drawable/Drawable;)Landroid/graphics/drawable/Drawable;
-
-    move-result-object v13
-
-    move-object/from16 v18, v13
-
     .restart local v18    # "tickerIcon":Landroid/graphics/drawable/Drawable;
     goto/16 :goto_1
 
@@ -628,7 +628,7 @@
     .restart local v11    # "i":I
     .restart local v15    # "newSegment":Lcom/flyme/systemui/statusbar/phone/MarqueeTicker$Segment;
     .restart local v17    # "text":Ljava/lang/CharSequence;
-    :cond_5
+    :cond_6
     move-object/from16 v0, p0
 
     iget-object v4, v0, Lcom/flyme/systemui/statusbar/phone/MarqueeTicker;->mSegments:Ljava/util/ArrayList;
