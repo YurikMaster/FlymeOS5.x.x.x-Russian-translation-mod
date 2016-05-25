@@ -229,4 +229,6 @@
     <string name="pattern_week_day_month_hour_minute" formatted="false">%a %-e/%-m %H:%M</string>
     <string name="pattern_week_day_month_hour_minute_12" formatted="false">%a %-e/%-m %p %I:%M</string>
     <string name="pattern_month_year" formatted="false">%-m/%Y</string>
+	<string name="playing_notification_title">Воспроизв.:</string>
+    <string name="pause_notification_title">Пауза:</string>
 </resources>
