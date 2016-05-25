@@ -2,6 +2,6 @@
 <resources>
     <plurals name="alarm_alert_snooze_set">
         <item quantity="other">Подрімати %d хвилин</item>
-        <item quantity="one">Подремать 1 минуту</item>
+        <item quantity="one">Подрімати 1 хвилину</item>
     </plurals>
 </resources>
