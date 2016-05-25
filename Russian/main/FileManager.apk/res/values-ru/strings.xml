@@ -29,6 +29,7 @@
     <string name="cancel_zip">Отмена сжатия</string>
     <string name="choice_toolbar_title">Выбрать файлы</string>
     <string name="choose_file_add_tips">Добавить</string>
+    <string name="cleaner">Очистить</string>
     <string name="close_wifi_share_device_name">Имя пользователя:</string>
     <string name="close_wifi_share_title">Передача файлов включена</string>
     <string name="close_wifi_share_wifi_ip">IP:</string>
@@ -51,6 +52,7 @@
     <string name="deleting">Удаление</string>
     <string name="detail_computing">Статистика</string>
     <string name="dialog_hint_zip">Архивировать</string>
+    <string name="dialog_title_zip">Файлы для архивирования: %s</string>
     <string name="dialog_zipping">Архивирование</string>
     <string name="disconnected_text">Отключить</string>
     <string name="disk_capacity_title">Телефон</string>
@@ -82,6 +84,7 @@
     <string name="extract_title">Извлечь в</string>
     <string name="extract_to_here">Извлечь сюда</string>
     <string name="extracting">Извлечение</string>
+    <string name="fasfolder_count">Папок: %s</string>
     <string name="fast_folder">Избранное</string>
     <string name="fastfolder_count">Удалить из избранного: %s</string>
     <string name="fastfolder_delete">Удалить</string>
@@ -99,6 +102,7 @@
     <string name="ftp_password_hint">Пароль</string>
     <string name="ftp_port_number">Номер порта</string>
     <string name="ftp_remote_management_open">Удалённое управление</string>
+    <string name="ftp_remote_management_stop">Остановить</string>
     <string name="ftp_set_info_success_tips">Установка логина и пароля выполнена</string>
     <string name="ftp_settings">Конфигурация FTP</string>
     <string name="ftp_tips_anonymous_access">Анонимный доступ</string>
@@ -129,6 +133,7 @@
     <string name="link_err">Ссылка на %s повреждена</string>
     <string name="link_remove">Удалить</string>
     <string name="loading_text">Загрузка</string>
+    <string name="lock_text">Введите код блокировки</string>
     <string name="mc_allow">Разрешить</string>
     <string name="mc_alway_allow">Разрешать всегда</string>
     <string name="mc_cancel">Отмена</string>
@@ -322,6 +327,7 @@
     <string name="renaming">Переименование</string>
     <string name="samba">Сетевое окружение</string>
     <string name="samba_connect_retry">Повтор</string>
+    <string name="samba_device_bottom_menu">Удалённое управление</string>
     <string name="samba_remove_tips">Удалить сервер?</string>
     <string name="samba_storage_space_no_available">"Недостаточно места в 'Устройстве'"</string>
     <string name="save_title_1_copy">Копир. в</string>
@@ -354,11 +360,11 @@
     <string name="stay_awake_summary">Экран всегда активен при использовании FTP</string>
     <string name="stay_awake_title">Экран активен</string>
     <string name="stop">Остановить</string>
-    <string name="stop_copy">остановка копирования</string>
-    <string name="stop_extract">остановка извлечения</string>
-    <string name="stop_move">остановка перемещения</string>
-    <string name="stop_upload">остановка загрузки</string>
-    <string name="stop_zip">остановка сжатия</string>
+    <string name="stop_copy">Остановить копирования</string>
+    <string name="stop_extract">Остановить извлечение</string>
+    <string name="stop_move">Остановить перемещение</string>
+    <string name="stop_upload">Остановить загрузку</string>
+    <string name="stop_zip">Остановить сжатие</string>
     <string name="storage_display_name">Локальные файлы</string>
     <string name="storage_warning">Внешний накопитель недоступен</string>
     <string name="switch_view">Переключить вид</string>
@@ -384,7 +390,6 @@
     <string name="utf8_title">UTF-8</string>
     <string name="zip_display_name">Архивы</string>
     <string name="zip_name_exist_tip">Имя файла существует, выберите другое имя</string>
-    <string name="dialog_title_zip">Файлы для архивирования: %s</string>
     <string name="mc_pattern_a_hour_before">час назад</string>
     <string name="mc_pattern_a_minute_before">минуту назад</string>
     <string name="mc_pattern_hour_before">, часов назад</string>
@@ -400,9 +405,5 @@
     <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
-    <string name="cleaner">Очистить</string>
-    <string name="fasfolder_count">Папок: %s</string>
-    <string name="ftp_remote_management_stop">Остановить</string>
-    <string name="lock_text">Введите код блокировки</string>
-    <string name="samba_device_bottom_menu">Удалённое управление</string>
+	<string name="job_pause_dialog_positive_tips">Выполнять в фоне</string>
 </resources>
