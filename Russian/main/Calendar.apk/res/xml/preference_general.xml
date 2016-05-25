@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/pref_header_visible_calendar" android:key="pref_key_header_visible_calendars">
+        <PreferenceScreen android:title="@string/pref_title_calendars" android:key="pref_key_account_setting">
+            <intent android:targetPackage="com.android.calendar" android:action="android.intent.action.MAIN" android:targetClass="com.meizu.flyme.calendar.settings.CalendarsSettings" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/pref_title_general_preferences" android:key="pref_general_setting">
+        <PreferenceScreen android:title="@string/pref_title_notice" android:key="pref_key_notice">
+            <intent android:targetPackage="com.android.calendar" android:action="android.intent.action.MAIN" android:targetClass="com.meizu.flyme.calendar.settings.NotificationSettings" />
+        </PreferenceScreen>
+        <PreferenceScreen android:title="@string/pref_header_extra_info" android:key="pref_key_useful_info">
+            <intent android:targetPackage="com.android.calendar" android:action="android.intent.action.MAIN" android:targetClass="com.meizu.flyme.calendar.settings.ExtraInfoSettings" />
+        </PreferenceScreen>
+        <ListPreference android:entries="@array/pref_week_start_labels" android:title="@string/pref_title_default_week_start" android:key="preferences_week_start_day" android:defaultValue="@string/pref_value_default_week_start" android:entryValues="@array/pref_week_start_values" />
+        <com.meizu.common.preference.SwitchPreference android:title="@string/pref_title_hide_past" android:key="preferences_hide_past_event" android:summary="@string/pref_summary_hide_past" android:defaultValue="false" />
+        <com.meizu.common.preference.SwitchPreference android:title="@string/pref_title_hide_declined" android:key="preferences_hide_declined_event" android:summary="@string/pref_summary_hide_declined" android:defaultValue="false" />
+    </PreferenceCategory>
+</PreferenceScreen>
